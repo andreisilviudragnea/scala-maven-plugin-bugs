@@ -16,7 +16,7 @@
         <scala.version.minor>8</scala.version.minor>
         <scala.version>${scala.version.major}.${scala.version.minor}</scala.version>
 
-        <scala-maven-plugin.version>4.8.1</scala-maven-plugin.version>
+        <scala-maven-plugin.version>4.9.0</scala-maven-plugin.version>
     </properties>
 
     <dependencies>
